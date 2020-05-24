@@ -1,1 +1,1 @@
-# RubySchool_Lesson_28
+# Leprosorium/ first blog
